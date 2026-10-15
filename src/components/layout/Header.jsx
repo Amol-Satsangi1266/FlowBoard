@@ -10,7 +10,7 @@ const Header = () => {
 
         <nav className="flex items-center space-x-4">
           <a
-            href="https://github.com/DaniBencz/trello-clone"
+            href="https://github.com/Amol-Satsangi1266/FlowBoard"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors duration-200"
