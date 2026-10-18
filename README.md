@@ -18,3 +18,5 @@ A modern, high-performance project management dashboard built with React, Vite, 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Amol-Satsangi1266/FlowBoard.git](https://github.com/Amol-Satsangi1266/FlowBoard.git)
+
+### Owner : Amol Satsangi
