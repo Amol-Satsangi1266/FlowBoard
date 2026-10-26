@@ -14,6 +14,7 @@ const BoardColumn = ({ title, tasks, deleteTask, updateTask, openForm }) => {
             openForm={openForm}
           />
         ))}
+        
       </div>
     </div>
   );
